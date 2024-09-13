@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="allowReplaceRegexp" value="ClosedCopyright" />
+    <option name="notice" value="Copyright (c) &amp;#36;originalComment.match(&quot;Copyright \(c\) (\d+)&quot;, 1, &quot;-&quot;, &quot;&amp;#36;today.year&quot;)&amp;#36;today.year by Victoria Vasudevan - All Rights Reserved.&#10; Unauthorized copying of this file, via any medium is strictly prohibited&#10; Proprietary and confidential" />
+    <option name="myName" value="Closed Source" />
+  </copyright>
+</component>
